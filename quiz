@@ -1,0 +1,27 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int x,y;
+    cout<<"QUIZ SHOW"<<endl;
+    cout<<"Quiz start"<<endl;
+    cout<<"Q1"<<endl;
+    cout<<"what is a full form of css?"<<endl;
+    cout<<"1.Cascading Similar Sheet"<<endl;
+    cout<<"2.Cascading Style Sheet"<<endl;
+    cout<<"3.Cascading Styled Sheet"<<endl;
+    cout<<"4.None of the above"<<endl;
+    cin>>x;
+    if (x==2)
+    cout<<"correct"<<endl;
+    else cout<<"Q2"<<endl;
+    cout<<"Who invented c++?"<<endl;
+   cout<<"1.Ada Lovelace"<<endl;
+   cout<<"2.Bjarne Stroustrup"<<endl;
+    cout<<"3.James Gosling"<<endl;
+    cout<<"4.Brendan Eich"<<endl;
+    cout<<"enter the corect option"<<endl;
+    if(x==2)
+    cout<<"correct";
+    }
+
+    
